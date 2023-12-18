@@ -1,0 +1,21 @@
+h2 {
+  position: fixed;
+  margin-top: 350px;
+  margin-left: 30px;
+  font-family: sans-serif;
+  color: brown;
+}
+
+.container {
+  height: 200vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.square {
+  border: 1px solid black;
+  background: url(../assets/memmedaga.jpeg);
+  height: 200px;
+  width: 200px;
+}/*# sourceMappingURL=home.css.map */
